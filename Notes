@@ -1,0 +1,33 @@
+4th March
+================================
+Introduction to PHP
+Advantaces and features of PHP
+LAMP/WAMP/XAMPP
+
+XAMPP installation
+
+Folder structure
+    apache/httpd.conf
+    php/php.ini 
+    htdocs/PHP files
+
+5th March
+===================================
+PHP tages (<?php ?>)
+echo / print
+comments 
+    single line //, #
+    multiple line /* */
+variable declaration
+Data types
+    int, float, 
+    string, boolean
+    array, null
+    object, resource id
+variable variable
+constant (define())
+Constroll structures
+    if, if else, if elseif
+    switch
+Loops 
+    for, while, do while
